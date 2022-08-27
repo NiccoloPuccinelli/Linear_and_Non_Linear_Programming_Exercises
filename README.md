@@ -1,4 +1,4 @@
-# Decision-Models
+# Decision Models
 
 This repo includes my work for the Data Science exam Decision Models. 
 
